@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.9",
         "phpmentors/domain-kata": "~1.4",
-        "piece/stagehand-fsm": "dev-symfony5",
+        "phpmentors/stagehand-fsm": "dev-symfony5",
         "symfony/expression-language": "~4.0|~5.0"
     },
     "require-dev": {

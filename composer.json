@@ -10,6 +10,12 @@
             "email": "kubo@iteman.jp"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/MasaakiYoshida/stagehand-fsm.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.9",
         "phpmentors/domain-kata": "~1.4",
